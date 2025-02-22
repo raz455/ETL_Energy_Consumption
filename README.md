@@ -1,6 +1,6 @@
 # ETL Energy Consumption Project 
 
-## Overview 
+## Overview ( Credit goes to @lixx21 )
 This project implements a simple ETL (Extract, Transform, Load) pipeline using the following technologies:
 
 - **Python**: For data extraction, transformation, and loading.
